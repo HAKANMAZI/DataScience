@@ -1,3 +1,5 @@
+https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=y7AZa4oXvOAr
+
 delim_whitespace = true
 
 df.iloc[:]
@@ -7,5 +9,11 @@ df.iloc["column1"] ###Kolon ismi ekle
 ice[["Temperature"]]
 ice["Temperature"].values.shape(-1,1)
 
+#owerfitting den kaçının
 
-https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=y7AZa4oXvOAr
+POLYNOMIAL REGRESSION
+
+sns.jointplot
+sns.pairplot
+sns.lmplot
+
