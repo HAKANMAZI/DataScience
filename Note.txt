@@ -1,4 +1,6 @@
 https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=y7AZa4oXvOAr
+https://www.analyticsvidhya.com/
+
 
 delim_whitespace = true
 
