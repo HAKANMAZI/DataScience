@@ -1,0 +1,8 @@
+delim_whitespace = true
+
+df.iloc[:]
+df.iloc["column1"] ###Kolon ismi ekle
+
+##### X koordinatını kesinlikle 2 boyutlu yap #####
+ice[["Temperature"]]
+ice["Temperature"].values.shape(-1,1)
